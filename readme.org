@@ -1,3 +1,5 @@
 Questo è il primo file con Magit creato con emacs
 * primo punto
 * secondo punto
+
+Questo è un cambiamento che ho fatto in un secondo momento
